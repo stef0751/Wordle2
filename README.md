@@ -6,7 +6,7 @@ Worlde 2 is an app that simulates the NYT Worldle, a popular word game platform 
 
 Time spent: 3 hours 
 
-## Required Features
+## Features
 
 The app includies the following functionalites:
 
