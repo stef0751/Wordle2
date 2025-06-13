@@ -1,8 +1,8 @@
-# Wordle 2
+# Wordle 2.0
 
 Submitted by: Steffina Jerald
 
-Worlde 2 is an app that simulates the NYT Worldle, a popular word game platform in which you have to guess a word correctly based on the given hints. Furthermore, additional features have been implemented, including choosing the length of the word to be guessed, choosing the number of guesses allowed, setting a theme/category for the word, as well as the 'alien feature.'
+Worlde 2.0 is an app that simulates the NYT Worldle, a popular word game platform in which you have to guess a word correctly based on the given hints. Furthermore, additional features have been implemented, including choosing the length of the word to be guessed, choosing the number of guesses allowed, setting a theme/category for the word, as well as the 'alien feature.'
 
 Time spent: 3 hours 
 
