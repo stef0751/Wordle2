@@ -17,7 +17,7 @@ The app includies the following functionalites:
 
 ## Video Walkthrough
 
-
+<div style="position: relative; padding-bottom: 64.62829736211032%; height: 0;"><iframe src="https://www.loom.com/embed/d74bc20042c846909c1f68897ad85435?sid=00eb98ae-85ac-4a3e-88fe-b3eecd4abea2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## License
 
